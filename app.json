@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "Hacka",
-    "slug": "Hacka",
+    "name": "custom-bottom-tab-navigation",
+    "slug": "custom-bottom-tab-navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
